@@ -1,4 +1,4 @@
-# Hello-World-Application-Android-Application-Development
+#Hello-World-Application-Android-Application-Development
 The repository contains a very basic `Hello-World Application`, as part of the `Android Application Development` collection that was created as an **independent project**. 
 
 The **Hello-World Application** built on **Android** platform simply displays a text - "Hello, World!" on the screen. This was the the very first Android Application that I created.
